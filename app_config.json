@@ -1,0 +1,16 @@
+{
+  "base_url": "http://10.0.2.2:3000/api",
+  "app": {
+    "status": 0,
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.example.football_app"
+  },
+  "ads": {
+    "ad_status": "on",
+    "admob_publisher_id": "pub-3940256099942544",
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
+    "admob_app_open_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110"
+  }
+}
