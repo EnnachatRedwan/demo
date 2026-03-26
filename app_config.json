@@ -2,7 +2,7 @@
   "base_url": "http://10.0.2.2:3000/api",
   "app": {
     "active": false,
-    "redirect_url": "https://play.google.com/store/apps/details?id=com.example.football_app"
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.yacinetv.marouaneai"
   },
   "ads": {
     "ad_status": true,
