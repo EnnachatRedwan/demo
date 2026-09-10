@@ -15,7 +15,8 @@
     "interstitial_click_count": 15
   },
   "notifications": {
-    "notification_enabled": true
+    "notification_enabled": true,
+    "max_favorite_teams": 6
   },
   "app_tab_bar": {
     "max_tab_items": 4,
@@ -24,6 +25,8 @@
       { "id": "standings","icon": "emoji_events",      "hidden": false },
       { "id": "fanzone",  "icon": "whatshot",          "hidden": false },
       { "id": "news",     "icon": "article",           "hidden": false },
+      { "id": "highlights", "icon": "play_circle", "hidden": false },
+      { "id": "reels", "icon": "video_library", "hidden": false },
       { "id": "settings", "icon": "settings_outlined", "hidden": false }
     ]
   },
